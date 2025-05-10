@@ -20,17 +20,17 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 
 • The percentages in each segment represent the proportion of data points in that category. <br>
 
-![image](Outputs/photo_2025-02-27_16-25-44.jpg)
+![image](outputs/photo_2025-02-27_16-25-44.jpg)
 
 • A person who smoke and have BMI above 30 tends to have a higher medical cost <br>
 
-![image](Outputs/photo_2025-02-27_16-25-30.jpg)
+![image](outputs/photo_2025-02-27_16-25-30.jpg)
 
 
 # Feature Importance
 
 • Importance of individual features <br>
-![image](Outputs/photo_2025-02-27_16-40-59.jpg)
+![image](outputs/photo_2025-02-27_16-40-59.jpg)
 
 
 
@@ -46,7 +46,7 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 | CV Score | 0.747 | 0.103 | 0.836 | 0.860 | 0.860 |
 
 • HeatMap
-![image](Outputs/photo_2025-02-27_16-25-50.jpg)
+![image](outputs/photo_2025-02-27_16-25-50.jpg)
 
 # Conclusion
 Model gave 90% accuracy for Medical Insurance Amount Prediction using XGBoost. This project demonstrates the effectiveness of machine learning, particularly XGBoost, in accurately predicting medical insurance costs based on key factors. It aims to enhance cost transparency and planning, benefiting both insurers and customers.
